@@ -1,15 +1,15 @@
 {
-	"name": "genius-lyrics-api",
+	"name": "genius-lyrics-api-maks",
 	"version": "3.2.0",
 	"main": "index.js",
 	"author": {
-		"name": "Faisal Arshed",
-		"url": "https://github.com/farshed"
+		"name": "Maks",
+		"url": "https://github.com/LinusBotTips"
 	},
 	"contributors": [
 		{
-			"name": "Garlicvideos",
-			"url": "https://github.com/Garlicvideos"
+			"name": "rei",
+			"url": "https://github.com/varnilla"
 		}
 	],
 	"license": "MIT",
@@ -23,12 +23,5 @@
 	},
 	"keywords": [
 		"genius",
-		"lyrics",
-		"album-art",
-		"scraper",
-		"genius-lyrics",
-		"genius-album-art",
-		"genius-api",
-		"lyrics-scraper"
 	]
 }
